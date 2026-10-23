@@ -1,6 +1,6 @@
 name: Enable Pages
 
-on:
+"on":
   workflow_dispatch:
 
 permissions:
